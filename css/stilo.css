@@ -1,7 +1,11 @@
 body {
    text-align: center;
    font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
    color: yellow;
+=======
+   color: blue;
+>>>>>>> cabecera
    background-color: black;
    border: 30px solid red;
    border-radius: 15px;
