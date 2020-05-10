@@ -18,3 +18,6 @@ a{
    font-weight: bold;
    font-family: 'Courier New', Courier, monospace;
 }
+p {
+   color: blueviolet;
+}
