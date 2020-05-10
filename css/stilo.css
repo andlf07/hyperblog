@@ -18,3 +18,10 @@ a{
    font-weight: bold;
    font-family: 'Courier New', Courier, monospace;
 }
+
+footer {
+   background-color: white;
+   background-image: url('https://static.platzi.com/media/tmp/class-files/git/hyperblog/hyperblog-996396cf687b3d1ea33e5d5fdf564194f4e04005/imagenes/dragon.png');
+   width: 50px;
+   height: 50px;
+}
